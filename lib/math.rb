@@ -41,7 +41,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-square_root = CMath.sqrt(num)
+square_root = cmath.sqrt(num)
 puts square_root
 return square_root
 end
