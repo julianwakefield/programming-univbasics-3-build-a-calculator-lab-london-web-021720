@@ -35,7 +35,7 @@ def modulo(num1, num2)
   num1=34
   num2-5
   result = num1/num2
-  sum=34-"#{result}.to_i"
+  sum=34-result
   puts "sum"
   return sum
 end
