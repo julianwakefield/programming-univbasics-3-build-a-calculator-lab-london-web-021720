@@ -42,6 +42,6 @@ end
 
 def square_root(num)
 sum = math.sqrt(num)
-puts square_root
-return square_root
+puts sum
+return sum
 end
